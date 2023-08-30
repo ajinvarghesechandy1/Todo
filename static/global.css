@@ -1,0 +1,9 @@
+body{
+    background: rgb(22,164,213);
+background: linear-gradient(90deg, rgba(22,164,213,1) 0%, rgba(20,182,104,1) 52%, rgba(0,255,16,1) 100%);
+
+margin: 0;
+display: grid;
+place-items: center;
+
+}
